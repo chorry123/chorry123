@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=HELLO!&fontSize=90&lineHeight=200)
 <div align="center">
-<h3> 안녕하세요! 👋</h3>
+<h3> 안녕하세요! 👋
+웹 개발자 이준철입니다.</h3>
 
 <p>
   <a href="https://jcleee.modoo.at/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-13AFF0?style=flat&logo=4chan&logoColor=white"/></a>
 <!--   <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
   
 </p>
-<p>웹 개발자 이준철입니다.</p>
+
 
   
 #
