@@ -9,10 +9,6 @@
 </p>
 <p>웹 개발자 이준철입니다.</p>
 
-
- 
-<h3>❤️ I love...</h3>
-<p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games</p>
   
 #
 <h3>🔥 Tech Stack 🔥</h3>
