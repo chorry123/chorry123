@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=안녕하세요 신입 개발자 이준철입니다&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=안녕하세요%20신입 개발자 이준철입니다&fontSize=90)
 <div align="center">
 <h3> 안녕하세요! 👋</h3>
 
