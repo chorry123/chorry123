@@ -1,6 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <div align="center">
 <h3> 안녕하세요! 👋</h3>
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <p>
   <a href="https://jcleee.modoo.at/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-13AFF0?style=flat&logo=4chan&logoColor=white"/></a>
 <!--   <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
